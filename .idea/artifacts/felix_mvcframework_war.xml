@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="felix-mvcframework:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.felix.demo.war">
+      <element id="artifact" artifact-name="felix-mvcframework:war exploded" />
+    </root>
+  </artifact>
+</component>
