@@ -51,7 +51,7 @@ public class FFDispatcherServlet extends HttpServlet {
 
     /**
      * 初始化，加载配置文件
-     * 当Servlet容器启动时，会调用GPDispatcherServlet的init()方法，
+     * 当Servlet容器启动时，会调用FFDispatcherServlet的init()方法，
      * 从init方法的参数中，我们可以拿到主配置文件的路径，从能够读取到配置文件中的信息。
      *
      * @throws ServletException
